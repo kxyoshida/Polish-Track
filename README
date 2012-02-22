@@ -1,0 +1,11 @@
+An ImageJ plugin to fit spots on the reassigned track opl by 2-d gaussian and add columns.
+
+The plugin calls MP2DGaussForTrack.c through Java Native Interface.
+
+Requires to import libraries:
+
+- MPFIT: A MINPACK-1 Least Squares Fitting Library in C
+http://www.physics.wisc.edu/~craigm/idl/cmpfit.html
+
+- commons math library http://commons.apache.org/math/
+23 Feb 2012: first commit
