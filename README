@@ -12,4 +12,4 @@ http://www.physics.wisc.edu/~craigm/idl/cmpfit.html
 
 28 March 2012: 
 - This program is obsolete. Use Polish-Track-COM instead.
-- This program often fails to fit, producing results with the centre located in the edge of the region but still tagged as "successuful fitting – 1". A single spot version of this program, "Polish-Spot-Location" has been just fixed to exclude these failures, but this obsolte program remains yet to be fixed. 
+- This program often fails to fit, producing results with the centre located in the edge of the region but still tagged as "successful fitting – 1". A single spot version of this program, "Polish-Spot-Location" has been just fixed to exclude these failures, but this obsolte program remains yet to be fixed. 
